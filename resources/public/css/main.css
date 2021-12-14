@@ -82,7 +82,7 @@ a {
     z-index: 1;
     overflow: hidden;
     position: relative;
-    display: flex;
+    /* display: flex; */
     width: 100%;
 }
 
